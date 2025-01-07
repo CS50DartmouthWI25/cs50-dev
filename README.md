@@ -11,11 +11,11 @@ Specifically, it contains the following:
 
 You cannot connect to Thayer's Linux servers unless you are connected to the Dartmouth campus network; if you are off campus, connect your laptop to Dartmouth's [VPN](https://services.dartmouth.edu/TDClient/1806/Portal/KB/?CategoryID=13404).
 
-* Create a new, empty, public repo `cs50-dev` in the term-specific cs50 org (like `cs50spring2021`).
-* Copy its clone address, which will look something like `git@github.com:cs50spring2021/cs50-dev.git`
-* Clone it here, and give it a name, e.g.,
+* Create a new, empty, public repo `cs50-dev` in the term-specific CS50 GitHub organization (`CS50DartmouthWI25`).
+* Copy its clone address (which will look something like `git@github.com:CS50DartmouthWI25/cs50-dev.git`)
+* Clone it here, and give it a name, e.g., `student-repo`, as follows:
   ```
-  git clone git@github.com:cs50spring2021/cs50-dev.git student-repo
+  git clone git@github.com:CS50DartmouthWI25/cs50-dev.git student-repo
   ```
 * Edit `_README.md` to paste that clone address (search for @CHANGEME).
 This file will become the README in the student repo. 
@@ -73,7 +73,7 @@ This file will become the README in the student repo.
 6. Clone this repository into your home directory:
 	
 	```bash
-	git clone https://github.com/cs50Spring2023/cs50-dev.git
+    git clone git@github.com:CS50DartmouthWI25/cs50-dev.git
 	```
 	
 	The result is a subdirectory named `cs50-dev` in which you should do all your development for this course.
