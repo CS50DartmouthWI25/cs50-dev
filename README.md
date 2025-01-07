@@ -68,7 +68,7 @@ This file will become the README in the student repo.
 	This program installs (or overwrites) the files  `.bashrc` and `.profile` in your home directory.
 	**Important:** if you have used Thayer's Linux systems before, and have customized your copy of these configuration files, type `n` when the script asks to overwrite them; if you type `y` you will lose your customizations and begin with fresh Thayer-supplied default configuration.
 
-5. Set up your GitHub account and provide GitHub a 'key' so your account on `plank` can access GitHub; follow these [instructions](https://www.cs.dartmouth.edu/~cs50/Logistics/github.html), and then return here.
+5. Set up your GitHub account and provide GitHub a 'key' so your account on `plank` can access GitHub; follow these [instructions](https://github.com/CS50DartmouthWI25/home/blob/master/logistics/github.md), and then return here.
 
 6. Clone this repository into your home directory:
 	
@@ -102,7 +102,7 @@ This file will become the README in the student repo.
 9. (OPTIONAL) To pick a preferred editor, edit `~/cs50-dev/dotfiles/profile.cs50` to uncomment one line defining `EDITOR`.
 	You can postpone this step until you've decided on your favorite editor.
 
-	> Read [about editors](https://www.cs.dartmouth.edu/~cs50/Logistics/systems.html#editors).
+	> Read [about editors](https://github.com/CS50DartmouthWI25/home/blob/master/logistics/systems.md)
 
 10. Finally, log out of plank (use the `exit` command to exit bash), and log back in using the `ssh` command from above.
 
@@ -126,4 +126,4 @@ From there, create or clone new git repositories for your coursework.
 
 ## More information
 
-Much more information about the systems we use in CS50, including links to many other resources, can be found on the [systems page](https://www.cs.dartmouth.edu/~cs50/Logistics/systems.html) of the course website.
+Much more information about the systems we use in CS50, including links to many other resources, can be found on the [systems page](https://github.com/CS50DartmouthWI25/home/blob/master/logistics/systems.md) of the course website.
